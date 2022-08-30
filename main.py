@@ -4,7 +4,7 @@ import os
 
 list = []
 
-while gd True:
+while  :
     command = input("Insert a Command >>")
     if command == "exit":
         break
